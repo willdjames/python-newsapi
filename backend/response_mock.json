@@ -1,0 +1,83 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": "Eliane Oliveira e AFP",
+      "title": "Venezuela se nega a retirar diplomatas e diplomacia brasileira pode expulsá-los - O Globo",
+      "description": "Ordem dada pelo governo Bolsonaro é que os representantes do governo Maduro deixem o país em 48 horas",
+      "url": "https://oglobo.globo.com/mundo/venezuela-se-nega-retirar-diplomatas-diplomacia-brasileira-pode-expulsa-los-24404099",
+      "urlToImage": "https://ogimg.infoglobo.com.br/in/24404108-0c9-403/FT1086A/652/87968716_FILE-PHOTO-Venezuelas-President-Nicolas-Maduro-speaks-during-a-news-conference-at-Mira.jpg",
+      "publishedAt": "2020-05-01T00:24:25Z",
+      "content": "CARACAS E BRASÍLIA O governo da Venezuela disse nesta quinta-feira que se nega a retirar seu corpo diplomático do Brasil e acusou o governo de Jair Bolsonaro de fazer \"pressões desnecessárias\". Uma graduada fonte da diplomacia brasileira afirmou ao GLOBO que … [+2521 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bbc.com"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Trump diz que Brasil vive 'momento difícil' com gráfico de coronavírus 'muito alto, quase vertical' - BBC News Brasil",
+      "description": "É a segunda vez essa semana que o presidente americano menciona o país como exemplo negativo no combate à pandemia.",
+      "url": "https://www.bbc.com/portuguese/internacional-52496343",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/BFF9/production/_112054194_hi061273952.jpg",
+      "publishedAt": "2020-05-01T00:12:21Z",
+      "content": "Direito de imagemWin McNamee/Getty ImagesImage caption\r\n 'Eu odeio dizer, mas o Brasil está muito alto, o gráfico está muito, muito alto. Lá em cima, quase vertical', disse Trump nesta quinta-feira (30) sobre pandemia de coronavírus no país\r\nEm coletiva de im… [+4707 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Metrojornal.com.br"
+      },
+      "author": "Wellington Botelho",
+      "title": "Legends of Runeterra é lançado oficialmente para PC e dispositivos móveis - Metro Jornal",
+      "description": "Metro Jornal - 2020/04/30",
+      "url": "https://www.metrojornal.com.br/estilo-vida/2020/04/30/legends-runeterra-e-lancado-oficialmente-para-pc-e-dispositivos-moveis.html",
+      "urlToImage": "https://media.metrolatam.com/2020/04/30/image004-15509c04a7154476e5d86f55c0918521-1200x800.jpg",
+      "publishedAt": "2020-04-30T23:39:53Z",
+      "content": "A Riot Games lançou oficialmente, nesta quinta-feira (30), o game Legends of Runeterra (LoR), um jogo de cartas gratuito e ambientado no universo de League of Legends. C\r\nCom recursos multiplataforma, o título está disponível gratuitamente para PC, Android e … [+536 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": "Carolina Brígido",
+      "title": "'Combate à corrupção não é prioridade do governo', diz Moro a revista - Jornal O Globo",
+      "description": "Na entrevista, ex-ministro anunciou que apresentará provas contra Bolsonaro ao STF",
+      "url": "https://oglobo.globo.com/brasil/combate-corrupcao-nao-prioridade-do-governo-diz-moro-revista-24404525",
+      "urlToImage": "https://ogimg.infoglobo.com.br/in/24391897-4d1-174/FT1086A/652/x87948749_Brasilia-DF-24-04-2020-Apos-exoneracao-de-Mauricio-Valeixo-oministro-da-Justica-Sergio-Mo.jpg.pagespeed.ic.8tgqsfcvYe.jpg",
+      "publishedAt": "2020-04-30T23:39:00Z",
+      "content": "BRASÍLIA - O ex-ministro da Justiça Sergio Moro disse em entrevista à última edição da Revista Veja que o combate à corrupção não é prioridade do governo do presidente Jair Bolsonaro. Moro pediu demissão na última sexta-feira com um discurso contundente, no q… [+4873 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Conjur.com.br"
+      },
+      "author": "Sérgio Rodas",
+      "title": "Juiz ordena lockdown em todo o Maranhão - Consultor Jurídico",
+      "description": "Como 100% dos leitos de unidade de terapia intensiva (UTI) da rede pública de saúde em São Luís estão ocupados por pacientes com Covid-19, a Vara de Interesses Difusos e Coletivos da Comarca da Ilha de São Luís ordenou, nesta quinta-feira (30/4), que o estado…",
+      "url": "https://www.conjur.com.br/2020-abr-30/juiz-ordena-lockdown-todo-maranhao",
+      "urlToImage": "https://s.conjur.com.br/img/b/tribunal-justica-maranhao-tj-ma.jpeg",
+      "publishedAt": "2020-04-30T23:13:00Z",
+      "content": "Como 100% dos leitos de unidade de terapia intensiva (UTI) da rede pública de saúde em São Luís estão ocupados por pacientes com Covid-19, a Vara de Interesses Difusos e Coletivos da Comarca da Ilha de São Luís ordenou, nesta quinta-feira (30/4), que o estado… [+2085 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportingnews.com"
+      },
+      "author": "Sporting News",
+      "title": "Nem no Palmeiras ou em outro: entenda por que Cavani no Brasil é improvável - Goal.com",
+      "description": "Barcelona head coach Quique Setien talked up Inter forward Lautaro Martinez and said lining up alongside Lionel Messi was a \"huge incentive\" for players.",
+      "url": "https://www.sportingnews.com/ca/soccer",
+      "urlToImage": "https://images.daznservices.com/di/library/sporting_news/a4/8/sportingnews_blid1xj976d41uqjx0jd6x52p.png",
+      "publishedAt": "2020-04-30T23:07:00Z",
+      "content": "More"
+    }]
+}
