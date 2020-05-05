@@ -2,13 +2,9 @@
 from fastapi import FastAPI, HTTPException
 from newsapi import NewsApiClient
 import json
+import os
 
 app = FastAPI()
-
-
-@app.get('/hello')
-def get_hello_world():
-    return {"hello" : "world"}
 
 
 @app.get('/noticias/mock'
@@ -30,6 +26,8 @@ def noticias_br():
     '''
     Top notícias do Brasil
     '''
-    newsapi = NewsApiClient(api_key='dd65faf4401a4b8191d81de5d622de1c')
+    api_key = os.getenv('NEWSAPI_KEY')
+
+    newsapi = NewsApiClient(api_key=api_key)
 
     return newsapi.get_top_headlines(country='br')
