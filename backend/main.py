@@ -1,8 +1,7 @@
 # main.py
 from fastapi import FastAPI, HTTPException
-from newsapi import NewsApiClient
 import json
-import os
+from integracao.api_google import ApiGoogleNoticias
 
 app = FastAPI()
 
@@ -26,8 +25,7 @@ def noticias_br():
     '''
     Top notícias do Brasil
     '''
-    api_key = os.getenv('NEWSAPI_KEY')
-
-    newsapi = NewsApiClient(api_key=api_key)
-
-    return newsapi.get_top_headlines(country='br')
+    try:
+        return ApiGoogleNoticias().get_noticias_relevantes()
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=e.args[0])
